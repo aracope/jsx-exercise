@@ -1,0 +1,17 @@
+.tweet {
+  border: 1px solid #0099CC;
+  border-radius: 5px;
+  margin: 20px 20%;
+  padding: 20px;
+}
+
+.username {
+  color: #0099CC;
+   /* makes a space between username and name */
+  margin-right: 10px;
+}
+.date {
+  color: #999;
+  display: inline-block;
+  margin: 0 10px;
+}
